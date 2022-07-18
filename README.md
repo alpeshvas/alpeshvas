@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Projects
+Personal Projects
 1. https://github.com/alpeshvas/assert-dsl
 <!--
 **alpeshvas/alpeshvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
